@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    color: white;
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+canvas {
+    border-radius: 14px;
+    border: black 3px solid;
+    margin-top: 100px;
+}
+
+#heading1 {
+    background-color: gray;
+    border-radius: 15px;
+    border: 2px white solid;
+}
+
+#footer1 {
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    text-align: center;
+    background-color: gray;
+    font-size: large;
+}
+
+#status1 {
+    background-color: black;
+    border: 1px solid white;
+    font-size: large;
+}
+
+#number1 {
+    background-color: black;
+    border: 1px solid white;
+    font-size: large;
+}
+
+#start1 {
+    background-color: white;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 6px;
+}
